@@ -1,5 +1,8 @@
 Very simple extension to show how to use `Collect custom attribute` from extension.
 
+Documentation for this attribute
+https://doc.livehelperchat.com/docs/bot/collect-custom-attribute/
+
 # Install
 
 * Activate in settings file `settings.ini.php` add in extension list `lhccollectcustombot`
